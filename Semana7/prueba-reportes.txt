@@ -1,0 +1,5 @@
+Se realizaron dos peticiones POST para registrar reportes ciudadanos. Cada reporte fue almacenado en el array reportes y recibió un identificador único.
+
+Posteriormente se realizó una petición GET a la ruta /reportes. El servidor devolvió una lista con todos los reportes registrados en memoria.
+
+Esto demuestra que la API permite registrar información mediante POST y consultarla posteriormente mediante GET mientras el servidor permanezca en ejecución.
