@@ -1,0 +1,16 @@
+Se realizó una petición POST a la ruta /registro enviando el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió los datos correctamente mediante req.body y devolvió la siguiente respuesta:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que la API puede recibir información enviada por un usuario y responder en formato JSON.
