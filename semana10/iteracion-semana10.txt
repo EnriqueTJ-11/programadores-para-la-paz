@@ -1,0 +1,7 @@
+Primero realizaría la historia “Como ciudadano, quiero registrar un reporte de una incidencia para que quede evidencia y pueda recibir seguimiento” y la historia “Como coordinador, quiero consultar los reportes pendientes para priorizar las acciones de la veeduría”, ya que son la base del sistema: sin registrar y consultar reportes, las demás funciones no tendrían utilidad.
+
+Para mí, una tarea está “terminada” cuando:
+
+La funcionalidad cumple con lo solicitado por la historia de usuario.
+Ha sido probada y funciona correctamente.
+El código y la documentación correspondientes han sido guardados y versionados en Git.
