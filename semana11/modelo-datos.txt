@@ -1,0 +1,25 @@
+Entidad: Solicitud Comunitaria
+
+Campos principales:
+
+id
+titulo
+descripcion
+fecha_creacion
+estado
+
+Propósito:
+Registrar las peticiones, reportes o necesidades presentadas por la comunidad y facilitar su seguimiento y gestión.
+
+Entidad: Seguimiento
+
+Campos principales:
+
+id
+solicitud_id
+comentario
+fecha_actualizacion
+responsable
+
+Propósito:
+Almacenar las acciones realizadas y las actualizaciones asociadas a cada solicitud, garantizando la trazabilidad y la transparencia del proceso.
