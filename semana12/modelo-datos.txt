@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales:
+
+id
+titulo
+descripcion
+fecha
+
+Propósito:
+Esta entidad almacena la información de cada causa o petición creada por los ciudadanos, permitiendo organizar las solicitudes y hacer seguimiento a las iniciativas publicadas en la plataforma.
+
+Entidad: Apoyo
+
+Campos principales:
+
+id
+causa_id
+nombre
+fecha
+
+Propósito:
+Esta entidad registra los apoyos que recibe cada causa. El campo causa_id relaciona cada apoyo con la causa correspondiente, lo que permite contabilizar los participantes y generar reportes sobre el nivel de apoyo de cada petición.

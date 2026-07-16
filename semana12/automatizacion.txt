@@ -1,0 +1,5 @@
+Evento: Se registra una nueva causa en la plataforma por parte de un ciudadano.
+
+Mensaje: El sistema, mediante n8n, envía una notificación a un canal de Telegram con el texto: "Se ha creado una nueva causa en la plataforma. Ingresa para conocer los detalles y brindar tu apoyo."
+
+Información que no debe enviarse: Por seguridad, no se deben incluir datos personales como números de documento, teléfonos, direcciones, correos electrónicos, contraseñas, tokens de acceso ni cualquier otra información sensible de los usuarios.
